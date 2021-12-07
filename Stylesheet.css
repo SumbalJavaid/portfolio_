@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+
+.navbar{
+
+    background-color:rgba(2, 39, 3, 0.87);
+
+}
+.nav-link{
+
+    color: rgb(235, 229, 229);
+}
+.navbar-brand{
+    color: white
+}
+
+/*.header{
+
+    background-color: black;
+   
+}
+
+.h1{
+    
+    width: 100vw;
+    height: 50vh;
+    
+    line-height: 50vh;
+    color: white;
+
+
+}*/
+
+
+.header{
+
+    width: 100vw;
+    height: 50vh;
+    background-image: linear-gradient(to right, rgba(36, 35, 35, 0.808), #077c3cc2);
+    line-height: 50vh;
+   
+    
+  
+}
+/*.header1{
+    width: 100vw;
+    height: 50vh;
+    background-image: url(https://source.unsplash.com/weekly?laptop,coding);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }*/
+    
+
+
+h1:hover{
+    
+    color: indigo;
+    background-color: indigo;
+
+}
+h2:hover{
+    color: indigo;
+    background-color: indigo;
+
+}
+
+
+
+
+
+
+
+
+h4:hover{
+    background-color: indigo;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vAlign{
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+    text-align: center;
+    line-height: 100vh;
+}
+
+
+
+
